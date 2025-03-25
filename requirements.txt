@@ -1,0 +1,13 @@
+lxml_html_clean
+ipywidgets
+git+https://github.com/JustAnotherArchivist/snscrape.git
+requests
+torch
+pandas
+numpy
+tweepy
+huggingface
+matplotlib
+seaborn
+kagglehub[pandas-datasets]
+transformers
